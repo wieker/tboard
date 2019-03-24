@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name evk1-rescue)(type Legacy)(uri ${KIPRJMOD}/evk1-rescue.lib)(options "")(descr ""))
+  (lib (name regulator-rescue)(type Legacy)(uri /home/wieker/Projects/linux/board/regulator/board/regulator-rescue.lib)(options "")(descr ""))
+  (lib (name regulator-cache)(type Legacy)(uri /home/wieker/Projects/linux/board/regulator/board/regulator-cache.lib)(options "")(descr ""))
+  (lib (name usbUart-cache)(type Legacy)(uri /home/wieker/Projects/linux/board/usbUart/board/usbUart/usbUart-cache.lib)(options "")(descr ""))
+)
